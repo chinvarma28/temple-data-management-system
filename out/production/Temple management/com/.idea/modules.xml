@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Temple management.iml" filepath="$PROJECT_DIR$/Temple management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tem/tem.iml" filepath="$PROJECT_DIR$/tem/tem.iml" />
+    </modules>
+  </component>
+</project>
